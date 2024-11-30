@@ -1,2 +1,2 @@
 # Ikman
-Automate ikman website using selenuim and java
+Automate ikman website using selenium and java
